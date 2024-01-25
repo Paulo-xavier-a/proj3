@@ -57,8 +57,10 @@ form {
   background: #FAFAFC;
   border-radius: 8px;
   min-height: 300px;
-
+ display: flex;
+ flex-direction:column ;
   padding: 64px;
+  gap: 48px;
 }
 
 fieldset {
